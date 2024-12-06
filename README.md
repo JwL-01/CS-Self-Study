@@ -5,7 +5,7 @@ This repository is a collection of resources, notes, and tutorials on various co
 ---
 
 ## **Table of Contents**
-1. [Data Structures](#data-structures)
+1. [Data Structures](./data-structures)
 2. [Algorithms](#algorithms)
 3. [Linear Algebra](#linear-algebra)
 4. [Programming Languages](#programming-languages)
