@@ -18,7 +18,7 @@ This repository is a collection of resources, notes, and tutorials on various co
 
 ## **Sections**
 
-### 📂 Data Structures
+### 🧱 Data Structures
 Learn about various data structures, their implementations, and use cases:
 - [Arrays](./data-structures/arrays.md)
 - [Linked Lists](./data-structures/linked-lists.md)
@@ -36,7 +36,7 @@ Explore algorithms, their design paradigms, and complexities:
 
 ---
 
-### 📂 Linear Algebra
+### 📒 Linear Algebra
 Understand the mathematical foundation of computer science:
 - [Vectors and Matrices](./linear-algebra/vectors-and-matrices.md)
 - [Eigenvalues and Eigenvectors](./linear-algebra/eigenvalues-eigenvectors.md)
@@ -44,7 +44,7 @@ Understand the mathematical foundation of computer science:
 
 ---
 
-### 📂 Programming Languages
+### 🖥️ Programming Languages
 Dive into popular programming languages and their features:
 - [Python](./programming-languages/python.md)
 - [Java](./programming-languages/java.md)
@@ -52,7 +52,7 @@ Dive into popular programming languages and their features:
 
 ---
 
-### 📂 Operating Systems
+### 🗔 Operating Systems
 Understand how operating systems work:
 - [Processes and Threads](./operating-systems/processes-threads.md)
 - [Memory Management](./operating-systems/memory-management.md)
@@ -60,7 +60,7 @@ Understand how operating systems work:
 
 ---
 
-### 📂 Databases
+### 🗃️ Databases
 Learn about data management and SQL:
 - [Relational Databases](./databases/relational.md)
 - [NoSQL Databases](./databases/nosql.md)
@@ -68,7 +68,7 @@ Learn about data management and SQL:
 
 ---
 
-### 📂 Networking
+### 🌐 Networking
 Explore the principles of computer networks:
 - [OSI Model](./networking/osi-model.md)
 - [TCP/IP](./networking/tcp-ip.md)
@@ -76,7 +76,7 @@ Explore the principles of computer networks:
 
 ---
 
-### 📂 Artificial Intelligence
+### 🤖 Artificial Intelligence
 Learn the basics and advanced concepts in AI:
 - [Machine Learning](./artificial-intelligence/machine-learning.md)
 - [Neural Networks](./artificial-intelligence/neural-networks.md)
@@ -84,7 +84,7 @@ Learn the basics and advanced concepts in AI:
 
 ---
 
-### 📂 Interview Questions
+### 🏢 Interview Questions
 My own experience with questions:
 - [White Board](./interview-questions/white-board.md)
 - [Math](./interview-questions/math.md)
