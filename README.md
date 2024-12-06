@@ -81,3 +81,12 @@ Learn the basics and advanced concepts in AI:
 - [Machine Learning](./artificial-intelligence/machine-learning.md)
 - [Neural Networks](./artificial-intelligence/neural-networks.md)
 - [Natural Language Processing](./artificial-intelligence/nlp.md)
+
+---
+
+### 📂 Interview Questions
+My own experience with questions:
+- [White Board](./interview-questions/white-board.md)
+- [Math](./interview-questions/math.md)
+
+---
